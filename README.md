@@ -1,7 +1,4 @@
-Да, делаем коротко, стильно и без воды 👇
-Вот компактный, но профессиональный README:
-
-🚀 Sneaker E-Commerce
+ Sneaker E-Commerce
 
 Full-stack sneaker e-commerce application built with React and FastAPI.
 
