@@ -5,8 +5,11 @@ Full-stack sneaker e-commerce application built with React and FastAPI.
 🧱 Tech Stack
 
 Frontend: React (Vite), Axios, TailwindCSS
+
 Backend: FastAPI, SQLAlchemy, PostgreSQL
+
 Auth: JWT
+
 DevOps: Docker
 
 ✨ Features
